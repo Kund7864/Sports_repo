@@ -1,0 +1,15 @@
+Helmet
+Batting Pads
+Wicket-Keeping Pads
+Batting Gloves
+Wicket-Keeping Gloves
+Abdominal Guard (Box)
+Thigh Guard
+Chest Guard
+Arm Guard
+Shin Guards
+Cricket Bat
+Cricket Ball
+Stumps
+Bails
+Wicket (Stumps and Bails)
